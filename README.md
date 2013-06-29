@@ -1,4 +1,4 @@
 KS_ss13
 =======
 
-Test-Repo
+Demo-Repository zur Präsentation "Kooperative verwaltung von Ressourcen mit GIT und GitHub".
